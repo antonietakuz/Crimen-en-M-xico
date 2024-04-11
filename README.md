@@ -1,17 +1,13 @@
-# Crimen-en-MÉxico
+## Crimen-en-MÉxico
 Este proyecto tiene como objetivo realizar un análisis exploratorio de datos sobre el crimen en México utilizando conjuntos de datos públicos disponibles.
 
-Descripción del Proyecto
+## Descripción del Proyecto
 El crimen es un problema social importante en México, y su comprensión es fundamental para implementar políticas efectivas de seguridad pública. En este proyecto, utilizamos datos recopilados por diversas instituciones gubernamentales y organizaciones para explorar diferentes aspectos del crimen en México. Utilizaremos técnicas de análisis de datos y visualización para extraer información significativa y comprender mejor la dinámica del crimen en el país.
 
-Conjuntos de Datos Utilizados
-Para este análisis, se utilizan varios conjuntos de datos públicos, incluidos:
+## Conjuntos de Datos Utilizados
+Para este análisis, se utilizan varios conjuntos de datos públicos, incluidos son parte de la  Encuesta Nacional de Victimización y Percepción de la Seguridad Pública ( _ENVIPE_ ) 2017 , además sumamos los datos del número de homicidios en cada uno de los estados.
 
-Datos del Sistema Nacional de Seguridad Pública (SNSP)
-Datos del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SESNSP)
-Datos del Instituto Nacional de Estadística y Geografía (INEGI)
-Otros datos gubernamentales y de fuentes abiertas
-Objetivos del Proyecto
+## Objetivos del Proyecto
 Los principales objetivos del proyecto son:
 
 Analizar la distribución geográfica del crimen en México.
