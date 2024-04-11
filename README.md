@@ -9,14 +9,14 @@ Para este análisis, se utilizan varios conjuntos de datos públicos, incluidos 
 
 ## Objetivos del Proyecto
 Los principales objetivos del proyecto son:
+- Analizar la distribución geográfica del crimen en México.
+- Identificar tendencias y patrones temporales en la incidencia del crimen.
+- Estudiar la relación entre diferentes tipos de delitos y variables socioeconómicas.
+- Explorar la efectividad de las estrategias de seguridad pública implementadas en diferentes regiones.
 
-Analizar la distribución geográfica del crimen en México.
-Identificar tendencias y patrones temporales en la incidencia del crimen.
-Estudiar la relación entre diferentes tipos de delitos y variables socioeconómicas.
-Explorar la efectividad de las estrategias de seguridad pública implementadas en diferentes regiones.
-Estructura del Repositorio
+## Estructura del Repositorio
 data: Este directorio contiene los conjuntos de datos utilizados en el análisis.
 notebooks: Aquí se encuentran los cuadernos Jupyter utilizados para el análisis de datos.
-reports: Este directorio contiene informes y visualizaciones generadas durante el análisis.
+video
 LICENSE: La licencia bajo la cual se comparte este proyecto.
 README.md: Este archivo que proporciona una descripción general del proyecto.
