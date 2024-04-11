@@ -15,8 +15,8 @@ Los principales objetivos del proyecto son:
 - Explorar la efectividad de las estrategias de seguridad pública implementadas en diferentes regiones.
 
 ## Estructura del Repositorio
-data: Este directorio contiene los conjuntos de datos utilizados en el análisis.
-notebooks: Aquí se encuentran los cuadernos Jupyter utilizados para el análisis de datos.
-video
-LICENSE: La licencia bajo la cual se comparte este proyecto.
-README.md: Este archivo que proporciona una descripción general del proyecto.
+- data: Este directorio contiene los conjuntos de datos utilizados en el análisis.
+- notebooks: Aquí se encuentran los cuadernos Jupyter utilizados para el análisis de datos.
+- video
+- LICENSE: La licencia bajo la cual se comparte este proyecto.
+- README.md: Este archivo que proporciona una descripción general del proyecto.
